@@ -7,6 +7,9 @@ function App() {
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo, nostrum?
       </h1>
       <h2>ahsdasjd</h2>
+      <footer>
+        <h1>footer</h1>
+      </footer>
     </div>
   );
 }
